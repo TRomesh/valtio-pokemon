@@ -1,7 +1,7 @@
 # Valtio Pokemon List
 
-Follow the article on medium through \
-Follow the live demo through
+Follow the article on [medium](https://levelup.gitconnected.com/valtio-the-proxy-based-state-management-6f3304b53968) \
+Follow the live [demo](https://valtio-pokemon.netlify.app/)
 
 ## 🚀 Install
 
